@@ -1,7 +1,6 @@
 # Amazon-Data-Analysis
-"Amazon Sales Data Analysis and Predictive Modeling"
+"Amazon Sales Data Analysis and Predictive Modeling."
 This project involves analyzing Amazon sales data and developing predictive models to forecast future sales.
-Based on the document provided, here's a summary of the project involving data analysis using Python in 3 key points:
 
 1. Data Preprocessing and Exploratory Data Analysis (EDA):
    - The project used Python libraries like Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and visualization.
